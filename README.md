@@ -1,3 +1,3 @@
-# Open RPC - Design
+# Open-RPC - Design
 
-Home of open-rpc designers and the open rpc assets / style guide for marketing.
+Home of Open-RPC designers and the Open-RPC assets / style guide for marketing.
